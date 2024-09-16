@@ -1,5 +1,5 @@
 # Northwind-Customer-Churn-Analysis
-#### Snap of SQL File
+### Snap of SQL File
 #
 ![Screenshot 2024-09-16 155053](https://github.com/user-attachments/assets/e61c46b7-e9a5-4703-8659-c997414659c9)
 #
