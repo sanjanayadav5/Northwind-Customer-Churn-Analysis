@@ -1,8 +1,8 @@
 # Northwind-Customer-Churn-Analysis
 #### Snap of SQL File
-
+#
 ![Screenshot 2024-09-16 155053](https://github.com/user-attachments/assets/e61c46b7-e9a5-4703-8659-c997414659c9)
-
+#
 #### Dashboard Link :https://app.powerbi.com/groups/me/reports/2ee12914-6483-4ddb-ba63-18333d15657a?ctid=05760293-303e-4ebb-b207-b0faac7f361f&pbi_source=linkShare
 
 ###
@@ -77,7 +77,7 @@ Customer Distribution by Order Value
 * The dashboard emphasizes designing targeted marketing campaigns based on purchase behavior and preferences to reduce churn risk.
 * Implementing loyalty programs specifically for high-risk customers can help sustain engagement and reduce churn rates.
 
-### Strategic Recommendations:
+## Strategic Recommendations:
 * Engagement Strategies: Implement loyalty programs or targeted promotions, especially in cities with high churn rates like Chicago and Las Vegas.
 
 * Market Analysis: Deepen customer analysis in cities with high revenue like New York and Memphis to replicate success strategies in lower-performing regions.
@@ -87,7 +87,7 @@ Customer Distribution by Order Value
 * Focus on High CLTV Customers: Develop customized offers, loyalty rewards, and engagement strategies for top customers to maximize retention and increase their lifetime value.
 * Engage High-Risk Customers: Target the 3% high-risk customers with incentives and personalized outreach to minimize churn.
 * Monitor Declining Activity: Regularly track customers showing declining order frequency over the last 6 months to preempt potential churn.
-## Potential Analysis
+## Output of SQL queries
 ###  Purchase Frequency:
 *  Identify trends in order of frequency over time. Are there customers whose purchase frequency sharply declines before churn?
 
